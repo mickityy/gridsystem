@@ -1,0 +1,14 @@
+.full{
+  height: 150px;
+  background-color: orange;
+}
+
+.third{
+  background-color: green;
+  height: 150px;
+}
+
+.two-thirds{
+  background-color: red;
+  height: 150px;
+}
