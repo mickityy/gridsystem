@@ -1,6 +1,6 @@
 .full{
   height: 150px;
-  background-color: orange;
+  background-color: black;
 }
 
 .third{
@@ -11,4 +11,18 @@
 .two-thirds{
   background-color: red;
   height: 150px;
+}
+
+.quarter{
+  background-color: blue;
+  height: 150px;
+}
+
+.half{
+  background-color: yellow;
+  height: 150px;
+}
+.no-gap{
+  margin: 0px;
+  padding: 0px;
 }
