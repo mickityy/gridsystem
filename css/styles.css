@@ -1,3 +1,9 @@
+*{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
 .full{
   height: 150px;
   background-color: black;
@@ -22,7 +28,25 @@
   background-color: yellow;
   height: 150px;
 }
+
+.eight{
+  background-color: purple;
+  height: 150px;
+}
+
 .no-gap{
   margin: 0px;
   padding: 0px;
+}
+
+.images{
+  height: auto;
+  padding-left: 6%;
+  display: inline-block;
+}
+
+.pic{
+  padding: 20px;
+  float: left;
+  padding-bottom: 0px;
 }
